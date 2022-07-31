@@ -1,10 +1,4 @@
-# The Movies DB API 
+# Movies List
 
-Acessando uma API com react.
 
-## Instruções:
-
-- clonar o código
-- yarn install
-- nvm use 16 
-- npm start
+Web page usando React, Redux e Bootstrap para acessar uma API e retornar uma lista de filmes populares. Funcionalidade de adicionar aos favoritos.
